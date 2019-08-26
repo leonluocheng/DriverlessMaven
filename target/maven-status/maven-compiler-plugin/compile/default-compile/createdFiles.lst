@@ -1,0 +1,12 @@
+Commands/MoveCommand.class
+Exceptions/OutOfBoardException.class
+Common/Orientation.class
+Main/Main.class
+Interfaces/ICar.class
+Common/Command.class
+Components/Printer.class
+Interfaces/ICommand.class
+Commands/CommandGenerator.class
+Components/Car.class
+Interfaces/ICommandGenerator.class
+Interfaces/IPrinter.class
